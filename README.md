@@ -9,7 +9,7 @@ Using Zipit is easy:
 ```go
 package main
 
-import "github.com/bankrate/zipit"
+import "github.com/bankrate/zippopotamus-go"
 
 func main() {
     client := &http.Client{}
@@ -20,8 +20,8 @@ func main() {
 
 ## Installlation
 
-`go get github.com/bankrate/zipit`
+`go get github.com/bankrate/zippopotamus-go`
 
 -- OR --
 
-`dep ensure -add github.com/bankrate/zipit`
+`dep ensure -add github.com/bankrate/zippopotamus-go`
